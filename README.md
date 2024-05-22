@@ -1,6 +1,7 @@
 # Projeto de Extensão em Pandas - UFSCar
 
-Este repositório é destinado aos projetos desenvolvidos como parte do Projeto de Extensão em Pandas da UFSCar, promovido pelo PANDA – Grupo de Processamento e ANálise de DAdos.
+Este repositório é destinado aos projetos desenvolvidos como parte do Projeto de Extensão em Pandas da UFSCar, promovido pelo PANDA – Grupo de Processamento e ANálise de DAdos. Aqui, iremos realizar projetos utilizando a linguagem de Python.
+
 
 ## Visão Geral
 
