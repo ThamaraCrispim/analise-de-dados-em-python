@@ -19,7 +19,7 @@ O objetivo é reunir atividades desenvolvidas ao longo da minha jornada em Ciên
 Cada notebook presente neste repositório representa uma análise ou um projeto independente, explorando bases de dados reais disponíveis em plataformas públicas (como o **Kaggle**).  
 Os temas abordam diferentes áreas, como:
 
-- 🎵 Música  
+- 🎵 Saúde  
 - 💰 Economia  
 - 🧍 Comportamento  
 - 🌍 Outros domínios de interesse  
