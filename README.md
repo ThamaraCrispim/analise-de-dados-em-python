@@ -1,29 +1,33 @@
-# 📊 Análises de Dados em Python
+# 📊 Portfólio de Análise de Dados em Python
 
-Repositório destinado a **estudos, práticas e projetos de análise de dados utilizando Python**.  
-O objetivo é reunir atividades desenvolvidas ao longo da minha jornada em Ciência de Dados, aplicando técnicas de exploração, tratamento e visualização de dados com as principais bibliotecas da área.
+Este repositório apresenta um **portfólio de projetos e estudos em Análise de Dados desenvolvidos em Python**, refletindo minha evolução técnica e prática na área de Ciência de Dados.  
+Os trabalhos aqui reunidos têm como foco a **análise exploratória, o tratamento de dados e a construção de visualizações**, com o objetivo de extrair insights relevantes a partir de dados reais.
 
 ---
 
 ## 🎯 Objetivos
 
-- Desenvolver habilidades práticas em análise e manipulação de dados  
-- Aplicar conceitos de estatística descritiva e visualização de informações  
-- Utilizar bibliotecas essenciais como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**  
-- Consolidar um **portfólio técnico** especializado em Ciência de Dados  
+- Aplicar técnicas de análise exploratória de dados (EDA) em diferentes contextos  
+- Realizar limpeza, transformação e organização de conjuntos de dados  
+- Utilizar métodos de estatística descritiva para apoiar a interpretação dos dados  
+- Desenvolver visualizações claras e informativas para comunicação de resultados  
+- Empregar bibliotecas consolidadas do ecossistema Python, como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**  
+- Estruturar um **portfólio técnico sólido** voltado à área de Análise e Ciência de Dados  
 
 ---
 
 ## 🧠 Conteúdo
 
-Cada notebook presente neste repositório representa uma análise ou um projeto independente, explorando bases de dados reais disponíveis em plataformas públicas (como o **Kaggle**).  
-Os temas abordam diferentes áreas, como:
+Os notebooks deste repositório correspondem a **projetos e análises independentes**, desenvolvidos a partir de **bases de dados reais**, majoritariamente obtidas em fontes públicas, como o **Kaggle**.
 
-- 🎵 Saúde  
-- 💰 Economia  
-- 🧍 Comportamento  
-- 🌍 Outros domínios de interesse  
+Os projetos abrangem diferentes domínios de aplicação, incluindo:
 
-Este repositório será continuamente atualizado conforme novos estudos e projetos forem desenvolvidos.
+- 🎵 Música e entretenimento  
+- 🏥 Saúde  
+- 💰 Economia e mercado  
+- 🧍 Comportamento e análise de padrões  
+- 🌍 Outros temas relevantes para análise de dados  
+
+O repositório é **atualizado continuamente**, acompanhando meu desenvolvimento acadêmico e técnico na área de Dados.
 
 ---
