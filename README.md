@@ -1,6 +1,6 @@
 # 📊 Portfólio de Análise de Dados em Python
 
-Este repositório apresenta um **portfólio de projetos e estudos em Análise de Dados desenvolvidos em Python**, refletindo minha evolução técnica e prática na área de Ciência de Dados.  
+Este repositório apresenta um **portfólio de projetos e estudos em Análise de Dados desenvolvidos em Python**, demonstrando minha evolução técnica e prática
 Os trabalhos aqui reunidos têm como foco a **análise exploratória, o tratamento de dados e a construção de visualizações**, com o objetivo de extrair insights relevantes a partir de dados reais.
 
 ---
